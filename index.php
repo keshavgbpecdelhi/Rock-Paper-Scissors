@@ -7,6 +7,8 @@
 <body>
 <div class="container">
 <h1>Welcome to Rock Paper Scissors</h1>
+<p><strong>Note:</strong> Username can be anything but Password is : php123
+</p>
 <p>
 <a href="login.php">Please Log In</a>
 </p>
